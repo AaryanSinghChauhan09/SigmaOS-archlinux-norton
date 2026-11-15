@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-norton component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-norton"
+name = "sigmaos_archlinux_norton"
 path = "src/lib.rs"
