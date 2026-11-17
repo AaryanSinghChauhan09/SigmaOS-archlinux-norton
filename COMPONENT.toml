@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-norton"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-norton component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
